@@ -81,6 +81,15 @@ This project showcases the ability to:
 - Extract actionable insights from sports data
 
 The analysis approach can be extended to larger, real-world IPL datasets for deeper insights.
+<img width="635" height="338" alt="image" src="https://github.com/user-attachments/assets/7eae5d24-1bf3-4a2e-ba03-6b1abef8c521" />
+<img width="1180" height="818" alt="Screenshot 2025-03-03 223600" src="https://github.com/user-attachments/assets/7523db9b-44e5-48fa-83a0-c2c95f649cba" />
+<img width="1366" height="816" alt="Screenshot 2025-03-03 223546" src="https://github.com/user-attachments/assets/08cfc247-b1e2-4c92-9393-89027344bbbd" />
+<img width="941" height="824" alt="Screenshot 2025-03-03 220510" src="https://github.com/user-attachments/assets/0a395615-b6ac-473a-80c6-0632e12a1618" />
+![Uploading Screenshot 2025-03-03 200841.png…]()
+
+
+
+
 
 
 ## Future Improvements
